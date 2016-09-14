@@ -9,6 +9,7 @@ The visualization uses obvious color pallet, red indicating a loser and blue ind
 
 The visualization is created using Tableau. You may download the workbook from the repo. Below is the screenshot of how visualization looks.
 
+![Alt text](https://raw.githubusercontent.com/saloni29993/TennisVizTableau/master/TennisVizTableau.png)
 
 
 
