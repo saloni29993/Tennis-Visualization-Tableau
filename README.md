@@ -11,6 +11,8 @@ The visualization is created using Tableau. You may download the workbook from t
 
 ![Alt text](https://raw.githubusercontent.com/saloni29993/TennisVizTableau/master/TennisVizTableau.png)
 
+![Alt text](/TennisVizTableau.png?raw=true "Tenns Visualization created in tableau")
+
 
 
 
